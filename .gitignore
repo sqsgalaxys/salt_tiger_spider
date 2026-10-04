@@ -1,7 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
+.venv/
 venv/
-.scrapy/
-english_book_spider/spiders/__pycache__/
-english_book_spider/__pycache__/
-/spider.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+dist/
+build/

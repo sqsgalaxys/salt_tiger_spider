@@ -1,0 +1,6 @@
+interface:
+  display_name: "Salt Tiger Library Sync"
+  short_description: "Apply the Salt Tiger Library Sync workflow in this repository"
+  default_prompt: "Use $salt-tiger-library-sync to apply the learned repository workflow."
+policy:
+  allow_implicit_invocation: true

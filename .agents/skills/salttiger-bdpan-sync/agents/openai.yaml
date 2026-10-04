@@ -1,0 +1,6 @@
+interface:
+  display_name: "Salttiger Bdpan Sync"
+  short_description: "Apply the Salttiger Bdpan Sync workflow in this repository"
+  default_prompt: "Use $salttiger-bdpan-sync to apply the learned repository workflow."
+policy:
+  allow_implicit_invocation: true

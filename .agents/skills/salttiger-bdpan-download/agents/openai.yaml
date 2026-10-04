@@ -1,0 +1,6 @@
+interface:
+  display_name: "Salttiger Bdpan Download"
+  short_description: "Apply the Salttiger Bdpan Download workflow in this repository"
+  default_prompt: "Use $salttiger-bdpan-download to apply the learned repository workflow."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Safe Bdpan Book Download"
+  short_description: "Apply the Safe Bdpan Book Download workflow in this repository"
+  default_prompt: "Use $safe-bdpan-book-download to apply the learned repository workflow."
+policy:
+  allow_implicit_invocation: true

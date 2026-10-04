@@ -1,0 +1,6 @@
+interface:
+  display_name: "Salttiger Library Sync"
+  short_description: "Apply the Salttiger Library Sync workflow in this repository"
+  default_prompt: "Use $salttiger-library-sync to apply the learned repository workflow."
+policy:
+  allow_implicit_invocation: true
